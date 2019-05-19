@@ -8,3 +8,4 @@ This is text for the first section of the project.
 Adds text to the second section of the project
 
 ## Third Section of Project
+This is text for the last section of the project
