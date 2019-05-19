@@ -5,6 +5,6 @@ A simple demo to teach myself the git workflow
 This is text for the first section of the project.
 
 ## Second Section of Project
-
+Adds text to the second section of the project
 
 ## Third Section of Project
